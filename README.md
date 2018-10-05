@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-I would like to thank Dr. Hauser at Pacific Lutheran University for assigning this project and givign us the tools to get it done.
+I would like to thank Dr. Hauser at Pacific Lutheran University for assigning this project and giving us the tools to get it done.
